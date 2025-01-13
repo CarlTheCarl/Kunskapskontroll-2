@@ -1,0 +1,2 @@
+#zip files shouldn't be included
+*.zip
